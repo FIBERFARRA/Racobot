@@ -1,0 +1,135 @@
+{
+  "prefix": "/raco",
+  "token": "ODU1NzQ1NzAyNzg4NDY0NjQw.YM29Sg.gr0ShNSj1ZOM1-Cd_oMkbFRy2tI",
+  "assigs": {
+    "idi" : {
+      "channel_id" : "803909326565015582",
+      "id_raco" : "270019",
+      "assig" : ""
+    },
+    "ac" : {
+      "channel_id" : "803909213435985960",
+      "id_raco" : "270018",
+      "assig" : "Arquitectura de Computadores"
+    },
+    "eee" : {
+      "channel_id" : "803909272131338240",
+      "id_raco" : "270014",
+      "assig" : "Empresa y Entorno Económico"
+    },
+    "xc" : {
+      "channel_id" : "803909628365766656",
+      "id_raco" : "270016",
+      "assig" : "Redes de Computadores"
+    },
+    "ies" : {
+      "channel_id" : "803909328683663400",
+      "id_raco" : "270015",
+      "assig" : "Introducción a la Ingeniería del Software"
+    },
+
+    "prop" : {
+      "channel_id" : "862256383965265960",
+      "id_raco" : "270017",
+      "assig" : "Proyectos de Programación"
+    },
+    "par" : {
+      "channel_id" : "862256427715002368",
+      "id_raco" : "270020",
+      "assig" : "Paralelismo"
+    },
+
+    "a" : {
+      "channel_id" : "885143990842818641",
+      "id_raco" : "270021",
+      "assig" : "Algorítmica"
+    },
+    "g" : {
+      "channel_id" : "885144049315635260",
+      "id_raco" : "270022",
+      "assig" : "Gráficos"
+    },
+    "ia" : {
+      "channel_id" : "885144196732817458",
+      "id_raco" : "270023",
+      "assig" : "Inteligencia Artificial"
+    },
+    "li" : {
+      "channel_id" : "885144536307871834",
+      "id_raco" : "270024",
+      "assig" : "Lógica en la Informática"
+    },
+    "lp" : {
+      "channel_id" : "885144575981805598",
+      "id_raco" : "270025",
+      "assig" : "Lenguajes de Programación"
+    },
+    "tc" : {
+      "channel_id" : "885144596600987648",
+      "id_raco" : "270026",
+      "assig" : "Teoría de la Computación"
+    },
+
+    "as" : {
+      "channel_id" : "885143176405467147",
+      "id_raco" : "270080",
+      "assig" : "Arquitectura del Software"
+    },
+    "asw" : {
+      "channel_id" : "885143429925974057",
+      "id_raco" : "270081",
+      "assig" : "Aplicaciones y Servicios Web"
+    },
+    "dbd" : {
+      "channel_id" : "885143493159309342",
+      "id_raco" : "270082",
+      "assig" : "Diseño de Bases de Datos"
+    },
+    "er" : {
+      "channel_id" : "885143558288465930",
+      "id_raco" : "270083",
+      "assig" : "Ingeniería de Requisitos"
+    },
+    "gps" : {
+      "channel_id" : "885143603737940018",
+      "id_raco" : "270084",
+      "assig" : "Gestión de Proyectos de Software"
+    },
+    "pes" : {
+      "channel_id" : "885143644749828128",
+      "id_raco" : "270085",
+      "assig" : "Proyecto de Ingeniería del Software"
+    },
+
+    "aso" : {
+      "channel_id" : "884033323524046848",
+      "id_raco" : "270120",
+      "assig" : "Administración de Sistemas Operativos"
+    },
+    "pi" : {
+      "channel_id" : "884033259548327946",
+      "id_raco" : "270121",
+      "assig" : "Protocolos de Internet"
+    },
+    "pti" : {
+      "channel_id" : "885150639917772820",
+      "id_raco" : "270122",
+      "assig" : "Proyecto de Tecnologías de la Información"
+    },
+    "si" : {
+      "channel_id" : "884032821692342292",
+      "id_raco" : "270123",
+      "assig" : "Seguridad Informática"
+    },
+    "soa" : {
+      "channel_id" : "884033378523955220",
+      "id_raco" : "270124",
+      "assig" : "Sistemas Operativos Avanzados"
+    },
+    "txc" : {
+      "channel_id" : "884033445100134430",
+      "id_raco" : "270125",
+      "assig" : "Tecnologías de Redes de Computadores"
+    }
+  }
+}
